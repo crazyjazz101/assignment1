@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    background-image: url("sert");
+    background-size: cover;
+    height: 90vh;
+    width: 25vw;
+    display: flex;
+        flex-direction: column;
+        justify-content: end;
+        align-items: center;
+        margin: 50px;
+}
+.card{
+    background-color: rgba(229, 229, 14, 0.875);
+    height: 30vh;
+    width: 25vw;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    
+}
+.btn{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 60px;
+    font-size: xx-small;
+    background-color: bisque;
+    border-radius: 25%;
+    padding: 10px;
+    border: none;
+}
+.para{
+    margin-top: 9px;
+    font-family:  Georgia;
+    font-size: small;
+    margin-left: 10px;
+    margin-right: 9px;
+}
+.heading{
+    margin-left: 10px;
+    font-size: large;
+    margin-top: 5px;
+
+}
